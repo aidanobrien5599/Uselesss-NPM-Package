@@ -1,0 +1,26 @@
+{
+  "name": "useless-addition-package",
+  "version": "1.0.0",
+  "description": "Useless package that adds two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidanobrien5599/Uselesss-NPM-Package.git"
+  },
+  "keywords": [
+    "useless",
+    "joke",
+    "dummy",
+    "tutorial",
+    "add"
+  ],
+  "author": "Aidan O'Brien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidanobrien5599/Uselesss-NPM-Package/issues"
+  },
+  "homepage": "https://github.com/aidanobrien5599/Uselesss-NPM-Package#readme"
+}
